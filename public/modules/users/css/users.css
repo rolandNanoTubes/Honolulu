@@ -12,3 +12,11 @@
 	right: 10px;
 	position: absolute;
 }
+
+.LoginForm, .SignupForm{
+	background-color: white;
+	border: 15px solod;
+	border-radius: 15px;
+	border-color: white;
+	margin-top:50px;
+}
